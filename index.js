@@ -28,7 +28,7 @@ function getInputVal(id) {
     return document.getElementById(id).value;
 }
 
-function saveMessage(name, email, phone) {
+function saveMessage(name, email, phone, message) {
     var newMessageRef = db.push();
     newMessageRef.set({
         name: name,
