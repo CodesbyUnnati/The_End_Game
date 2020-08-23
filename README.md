@@ -1,7 +1,7 @@
-# The_End_Game
+# 📍 The_End_Game
 
 
-# 📍My WebFolio😊
+#My WebFolio😊
 <b>All my WebDev projects are compiled in this website</b>
 
 
