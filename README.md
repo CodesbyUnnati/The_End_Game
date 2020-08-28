@@ -34,6 +34,6 @@ This is the first version of the website.
 <h1>Author</h1>
   <b>Unnati Mishra🙎</b>
   <br><br>
-  As you know Plagiarism is bad so, if you want to use the code then Please don't forget to give the credits😇
+  As you know Plagiarism is bad so, if you want to use the code then  Please don't forget to give the credits😇
   
 
