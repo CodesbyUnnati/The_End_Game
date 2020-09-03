@@ -29,3 +29,7 @@ img{
     color: black;
     background: #34ecda;
   }
+@media (max-width: 768px) {
+    h1{font-size: 28px;
+}
+}
