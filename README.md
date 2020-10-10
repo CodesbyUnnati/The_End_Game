@@ -3,7 +3,7 @@
 
 # My WebFolio😊<br>
 
-<b>All my WebDev projects are compiled in this website.</b>
+<b>All my Web-Dev projects are compiled in this website.</b>
 
 
 <br>
